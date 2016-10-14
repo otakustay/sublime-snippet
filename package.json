@@ -1,0 +1,11 @@
+{
+  "name": "sublime-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "zip -r otakustay-snippets.sublime-package html javascript"
+  },
+  "author": "",
+  "license": "ISC"
+}

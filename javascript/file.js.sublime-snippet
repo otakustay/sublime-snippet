@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[/**
+ * ${1:项目描述}
+ * Copyright 2016 Baidu Inc. All rights reserved.
+ *
+ * @ignore
+ * @file ${2:文件描述}
+ * @author otakustay
+ */
+$0]]></content>
+    <tabTrigger>file-overview</tabTrigger>
+    <scope>source.js</scope>
+    <description>file overview</description>
+</snippet>

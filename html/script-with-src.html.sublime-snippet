@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<script src="$0"></script>]]></content>
+    <tabTrigger>ss</tabTrigger>
+    <scope>text.html</scope>
+    <description>script with src</description>
+</snippet>
